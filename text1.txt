@@ -1,0 +1,3 @@
+Tạo 1 repository mới
+
+File -> Add local repository
